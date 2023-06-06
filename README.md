@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/514153284.svg)](https://zenodo.org/badge/latestdoi/514153284)
+
 # In various curvilinear coordinates
 
 Done in SymPy. General formula is
